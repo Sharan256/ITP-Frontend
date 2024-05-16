@@ -1,0 +1,29 @@
+.custom-color {
+    background-color: #757575;
+  }
+  
+
+  .bg-blur {
+     
+    /* Add the blur effect */
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+  
+  }
+  
+  .box1 {
+    background-color: #000;
+    color: #fff;
+    opacity: .5;
+  }
+  
+  .box2 {
+    background-color: rgba(0,0,0,.5);
+    color: #fff;
+  }
+
+    
+  .box3 {
+    background-color: rgba(100, 96, 96, 0.5);
+    color: #fff;
+  }
